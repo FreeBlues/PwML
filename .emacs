@@ -1,5 +1,7 @@
 ;; .emacs
 
+;;; begin of file
+
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
   ;; If you edit it by hand, you could mess it up, so be careful.
@@ -102,3 +104,5 @@
 (global-set-key "\C-cs" 'slime-selector)
 
 (slime-setup '(slime-fancy slime-asdf slime-banner))
+
+;;; end of file
