@@ -173,10 +173,10 @@ V 0.90
 
 LispBox 下载地址：
 
-http://gigamonkeys.com/lispbox/
+http://gigamonkeys.com/lispbox/  
 这个地址是《实用 Common Lisp 编程》的作者提供的，包括了写给即将学习 Lisp 的新手们的一段话，大家可以看看。
 
-http://common-lisp.net/project/lispbox/
+http://common-lisp.net/project/lispbox/  
 这里是 LispBox 的正式下载地址
 
 
