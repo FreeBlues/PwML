@@ -91,7 +91,7 @@ loadNibFile:externalNameTable:withZone: 的字典参数用于两个目的：识�
 
 对于这第一个例子中，我们将通过一个所有者对象（应用程序对象），但我们并不需要收集顶层的对象，所以我们会省略NSNibTopLevelObjects，关键。
 
-	[原文的错误代码]
+	[原文的错误代码:]
 	? (setf *my-dict* 
         (#/dictionaryWithObject:forKey: ns:ns-mutable-dictionary
          *my-app* 
