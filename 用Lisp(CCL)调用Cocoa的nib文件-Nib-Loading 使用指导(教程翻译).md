@@ -132,7 +132,7 @@ loadNibFile:externalNameTable:withZone: 的字典参数用于两个目的：识�
 	T
 
 译者注: 成功后会弹出一个小窗口, 如下图所示:	
-![hello示意](file:///Users/admin/ECode/Markdown-doc/hello.png)
+![hello示意](http://static.oschina.net/uploads/space/2013/0617/233314_vbJ1_219279.png)
       
 “hello.nib” 文件中定义的窗口应该出现在屏幕上。 loadNibFile:externalNameTable:withZone: 方法返回T来表示它成功地加载了 nibfile，如果它失败了，它将返回NIL。
 
