@@ -1,12 +1,12 @@
 # 用Lisp(CCL)调用Cocoa的nib文件-Nib-Loading 使用指导(教程翻译)
 
 ===
-原文地址:  
-本地: ~/ccl-1.8-darwinx86/examples/cocoa/nib-loading/HOWTO.html	
-网络: http://trac.clozure.com/ccl/browser/trunk/source/examples/cocoa/nib-loading/HOWTO.html
+原文地址:  	
+本地: ~/ccl-1.8-darwinx86/examples/cocoa/nib-loading/HOWTO.html		
+网络: http://trac.clozure.com/ccl/browser/trunk/source/examples/cocoa/nib-loading/HOWTO.html		
 原文标题:	
-Nib-Loading HOWTO	
-翻译者: 	
+Nib-Loading HOWTO		
+翻译者: 		
 FreeBlues 2013-06-17
 
 ===
