@@ -2,7 +2,7 @@
 
 ===
 原文地址:			
-网络: http://trac.clozure.com/ccl/wiki/CocoaBridgeTranslation
+网络: http://trac.clozure.com/ccl/wiki/CocoaBridgeTranslation		
 原文标题:			
 Cocoa Bridge Translation	
 翻译者: 		
