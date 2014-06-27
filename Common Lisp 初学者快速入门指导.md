@@ -455,6 +455,8 @@ OK，输入上述这些之后，回车，Emacs 就会创建一个名为 hi.lisp 
 	:UTF-8
 	CL-USER> 
 	
+`说明：全局变量 *default-external-format* 在 CCL 和 CLisp 中可以用，但是在 SBCL 中不支持，因此如果你的编程环境是 SBCL 的话，那么想要支持中文就需要每次手动指定编码格式了---SBCL 是否有类似的全局变量？我不太清楚，知道的朋友可以指点一下。`
+
 之所以介绍使用 **setq** 函数，是因为这个函数在 Common Lisp 和 Emacs Lisp 中都可以使用，都可以用于赋值，也就是说你可以在 Emacs 的配置文件中使用 **setq** 这个函数来修改一些全局配置量，而且 **setq** 在 Common Lisp 中更是一个特殊操作符，据说现代风格一般使用宏 **setf** 来实现赋值功能，**setf** 封装了对 **setq** 的调用。更详细的使用方法可以查询 HyperSpec 。
 
 好了，再试一下，看看效果：
